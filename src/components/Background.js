@@ -9,21 +9,22 @@ import 'react-animated-slider/build/horizontal.css';
 import './slider-animations.css';
 import './styles.css';
 import macysp from '../assets/macys_parade.png';
+import cloud from '../assets/SITW_Hov_P.jpg';
 import sponge from '../assets/YellowSpongey.jpg';
 import nature from '../assets/NaturesGiftExhibit.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 const content = [
 	{
-		title: `LITTLE CLOUD IN MACY'S THANKSGIVING DAY PARADE!`,
+		title: `FRIENDSWITHYOU + PHARRELL AT SOMETHING IN THE WATER FESTIVAL`,
 		description:
-		`It happened! Little Cloud made it all the way to New York for the Macy's Thanksgiving Day Parade!`,
+		`We were so honored and happy to have made a giant inflatable installation for Pharrell and his new festival Something in the Water!`,
 		button: 'Read More',
-		image: macysp,
-		link:'/macy'
+		image: cloud,
+		link:'/water'
 	},
 	{
-		title: `PLAYWORKS: THE GOLDEN AGE AT ARSHAM/FIEG GALLERY`,
+		title: `PLAYWORKS: THE GOLDEN AGE`,
 		description:
 		'This series of works play with the discovery and abstraction of the figure, using the texturally soft and informal medium of plastiline. We depict our cartoon heroes, pop culture icons, mass media, and memes that affect us daily.',
 		button: 'Discover',
@@ -39,6 +40,8 @@ const content = [
 		link:'/nature'
 	}
 ];
+
+
 
 const Background= () => (
 	<div>

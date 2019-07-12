@@ -53,6 +53,7 @@ padding-top:60px;
 const Back = styled.div`
 background: rgba(80,235,254,0.20);
 padding-bottom:50px;
+padding-top:100px;
 `
 
 

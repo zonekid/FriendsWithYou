@@ -49,6 +49,7 @@ const Background = styled.div `
 background-image: url(${Bgb});
 background-repeat: no-repeat;
 background-size: cover;
+padding-top:50px;
 `
 
 

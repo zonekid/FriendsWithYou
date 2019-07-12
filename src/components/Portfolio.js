@@ -102,12 +102,17 @@ transition:0.75s;
 const Four = styled.div `
 @media (min-width: 991px) {
   
-    padding-top: 80px;
+    padding-top: 40px;
     padding-bottom: 100px;
 }
+@media (min-width: 1367px) {
+  padding-top:160px;
+
+
+ }
 
 @media (min-width: 1680px) {
-padding-top: 100px;
+padding-top: 140px;
 padding-bottom: 200px;
  }
 
@@ -133,18 +138,18 @@ color: #E84DCF;
 
 @media (min-width: 991px) {
     text-align:center;
-    padding-top: 100px;
+    padding-top: 140px;
 }
 
 
 @media (min-width: 1367px) {
-  padding-top:240px;
+  padding-top:290px;
 
 
  }
 
  @media (min-width: 1800px) {
-  padding-top:270px;
+  padding-top:310px;
 
 
  }

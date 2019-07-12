@@ -117,13 +117,20 @@ text-align:center;
  }
  @media (min-width: 1800px) {
     padding-top:280px;
-    padding-bottom:350px;
+    padding-bottom:250px;
  
 
 }
 
 `
+const Cool = styled.div `
+ @media (min-width: 1800px) {
+    padding-top:100px;
 
+ 
+
+}
+`
 
 
 class About extends Component {
@@ -131,6 +138,7 @@ class About extends Component {
     render() { 
         return ( 
             <div style={{background:'#F5F7F9'}}>
+                <Cool>
                 <Row><Col xl={{offset:3, span:4}}>
                 <Friends>
                 <span style={{color:'#000000'}}>We Are </span> <br></br>
@@ -159,6 +167,7 @@ class About extends Component {
        <Snoo>     <Image src={snoopypt} fluid /></Snoo>  
                 </Col>
                 </Row>
+                </Cool>
             </div>
          );
     }

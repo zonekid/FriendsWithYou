@@ -11,7 +11,8 @@ import { NavHashLink as NavLink } from 'react-router-hash-link';
 const NavStyles = styled.div `
 
 .navbar {
-  background-image: linear-gradient(180deg, rgba(255,255,255,0.90) 65%, rgba(255,255,255,0.00) 100%);
+  /* background-image: linear-gradient(180deg, rgba(255,255,255,0.90) 75%, rgba(255,255,255,0.00) 100%); */
+  background-color:#FFFFFF;
 border-radius: 8px;
 border-radius: 8px;
 

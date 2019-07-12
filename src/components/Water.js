@@ -9,6 +9,8 @@ import something2 from '../assets/SITW_purp_green_float.jpeg';
 import something3 from '../assets/SITW_two_in_a_pod.jpg';
 import something4 from '../assets/SITW_people.jpg';
 import something5 from '../assets/SITW_Hov_P.jpg';
+import something6 from '../assets/SITW_Rainy_day.jpg';
+import something7 from '../assets/SITW_multiple.jpg';
 
 const Title = styled.p`
 font-family: HiraginoSansGB-W3;
@@ -51,6 +53,7 @@ padding-top:60px;
 const Back = styled.div`
 background: rgba(80,235,254,0.20);
 padding-bottom:50px;
+padding-top:100px;
 `
 
 
@@ -69,6 +72,8 @@ class Water extends Component {
   <Pic> <Image src={something} rounded fluid /></Pic> 
   <Pic> <Image src={something2} rounded fluid /></Pic> 
   <Pic> <Image src={something3} rounded fluid /></Pic> 
+  <Pic> <Image src={something6} rounded fluid /></Pic> 
+  <Pic> <Image src={something7} rounded fluid /></Pic> 
   <Pic> <Image src={something4} rounded fluid /></Pic> 
   <Pic> <Image src={something5} rounded fluid /></Pic> 
 
