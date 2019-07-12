@@ -11,10 +11,34 @@ import { NavHashLink as NavLink } from 'react-router-hash-link';
 const NavStyles = styled.div `
 
 .navbar {
-  background-image: linear-gradient(180deg, rgba(255,255,255,0.88) 65%, rgba(255,255,255,0.00) 100%);
+  background-image: linear-gradient(180deg, rgba(255,255,255,0.90) 65%, rgba(255,255,255,0.00) 100%);
 border-radius: 8px;
-height: 140px;
+border-radius: 8px;
 
+@media (max-width: 575px) {
+
+}
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+@media (min-width: 991px) {
+
+}
+
+
+@media (min-width: 1367px) {
+  height: 140px;
+ }
+
+ @media (min-width: 1800px) {
+  height: 140px;
+
+ }
 }
 
 
@@ -31,6 +55,7 @@ text-transform: uppercase;
 &:hover {
     color: #AC25F0;
   };
+
 };
 
 .navbar .cool1 {
@@ -85,6 +110,19 @@ text-transform: uppercase;
   };
 };
 
+.navbar .cool5 {
+  font-family: HiraginoSansGB-W6;
+font-size: 16px;
+color:#000000;
+letter-spacing: 0;
+padding-left:20px;
+padding-right:20px;
+text-transform: uppercase;
+&:hover {
+    color: #6FD006;
+  };
+};
+
 .navbar-brand {
   font-family: DefinatelyMaybe;
 font-size: 30px;
@@ -99,16 +137,17 @@ letter-spacing: 0;
 const Navigation = () => {
     return ( 
       <NavStyles>
-        <Navbar expand="lg" >
+        <Navbar fixed="top" expand="xl" >
   <Navbar.Brand href="#home">FriendsWithYou</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-1" />
   <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between align-items-center w-100">
     <Nav className="mx-auto text-center">
-      <NavLink className="cool"   to="/">Home</NavLink>
-      <NavLink className="cool1" to="/portfolio">About</NavLink>
-      <NavLink className="cool2"  to="/portfolio">Portfolio</NavLink>
-      <NavLink className="cool3" to="/portfolio">Info</NavLink>
-      <NavLink className="cool4" to="/portfolio">Blog</NavLink>
+      <NavLink className="cool"  smooth to="/#home">Home</NavLink>
+      <NavLink className="cool1" smooth to="/#about">About</NavLink>
+      <NavLink className="cool2" smooth to="/#portfolio">Portfolio</NavLink>
+      <NavLink className="cool4" smooth to="/#blog">Blog</NavLink>
+      <NavLink className="cool3" smooth to="/#press">Press</NavLink>
+      <NavLink className="cool5" smooth to="/#contact">Contact</NavLink>
     </Nav>
     
     <Nav className="flex-row justify-content-center flex-now">
