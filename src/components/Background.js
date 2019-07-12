@@ -35,7 +35,7 @@ const content = [
 		title: `NATURE'S GIFT`,
 		description:
 		`We're so excited to announce our museum exhibition, Nature’s Gift: Humans, Friends & The Unknown, an immersive experience featuring a large-scale commissioned work at the Oakland Museum of California.`,
-		button: 'Buy now',
+		button: 'Read More',
 		image: nature,
 		link:'/nature'
 	}
