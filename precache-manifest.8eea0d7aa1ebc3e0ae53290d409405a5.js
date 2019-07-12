@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f41fefcb8cf8f6eb388e7a35332c2fe5",
+    "revision": "a3f9121ed4d726b8a84ea9197cba7d20",
     "url": "/FriendsWithYou/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FriendsWithYou/static/css/2.d4c5f937.chunk.css"
   },
   {
-    "revision": "021bf486ebfc54daa159",
+    "revision": "2df293860c674f540581",
     "url": "/FriendsWithYou/static/css/main.1c43581a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FriendsWithYou/static/js/2.6ff95e72.chunk.js"
   },
   {
-    "revision": "021bf486ebfc54daa159",
-    "url": "/FriendsWithYou/static/js/main.159b5273.chunk.js"
+    "revision": "2df293860c674f540581",
+    "url": "/FriendsWithYou/static/js/main.3ef964fb.chunk.js"
   },
   {
     "revision": "7c062f64dad643063655",
