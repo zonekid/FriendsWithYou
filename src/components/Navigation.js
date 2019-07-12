@@ -143,12 +143,12 @@ const Navigation = () => {
   <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-1" />
   <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between align-items-center w-100">
     <Nav className="mx-auto text-center">
-      <NavLink className="cool"  smooth to="/#home">Home</NavLink>
-      <NavLink className="cool1" smooth to="/#about">About</NavLink>
-      <NavLink className="cool2" smooth to="/#portfolio">Portfolio</NavLink>
-      <NavLink className="cool4" smooth to="/#blog">Blog</NavLink>
-      <NavLink className="cool3" smooth to="/#press">Press</NavLink>
-      <NavLink className="cool5" smooth to="/#contact">Contact</NavLink>
+      <NavLink className="cool"  smooth to="#/#home">Home</NavLink>
+      <NavLink className="cool1" smooth to="#/#about">About</NavLink>
+      <NavLink className="cool2" smooth to="#/#portfolio">Portfolio</NavLink>
+      <NavLink className="cool4" smooth to="#/#blog">Blog</NavLink>
+      <NavLink className="cool3" smooth to="#/#press">Press</NavLink>
+      <NavLink className="cool5" smooth to="#/#contact">Contact</NavLink>
     </Nav>
     
     <Nav className="flex-row justify-content-center flex-now">

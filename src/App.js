@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Link, Switch } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Navigation from './components/Navigation';
 import Main from './components/Main';
@@ -37,7 +37,7 @@ function App() {
     <div >
  <React.Fragment>
    <Container fluid>
-<Router>
+<Router basename={process.env.PUBLIC_URL}>
 <Navigation/>
   <Switch>
    <Route exact path="/" component={Main}/>
