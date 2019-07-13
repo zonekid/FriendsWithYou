@@ -19,7 +19,7 @@ const content = [
 		title: `FRIENDSWITHYOU + PHARRELL AT SOMETHING IN THE WATER FESTIVAL`,
 		description:
 		`We were so honored and happy to have made a giant inflatable installation for Pharrell and his new festival Something in the Water!`,
-		button: 'Read More',
+		button: 'works',
 		image: cloud,
 		link:'/water'
 	},
