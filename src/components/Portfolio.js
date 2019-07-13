@@ -23,7 +23,7 @@ import inflate from '../assets/Inflate_cover.jpg';
 import moncler from '../assets/Moncler_popup.jpg';
 import heart from '../assets/heartcover.jpg';
 import Nav from 'react-bootstrap/Nav';
-import { NavHashLink as NavLink } from 'react-router-hash-link';
+
 
 const Ovltext = styled.div `
 text-transform:uppercase;
