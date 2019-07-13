@@ -4,11 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import bean from '../assets/RainbowBean2.jpg';
-import bean2 from '../assets/RainbowBean.jpg';
-import bean3 from '../assets/EZBeanBlue.jpg';
-import bean4 from '../assets/EZBeanRed.jpg';
-import bean5 from '../assets/EZBeanCollage.jpg';
+import bean from '../assets/rainbowbean2.jpg';
+import bean2 from '../assets/rainbowbean.jpg';
+import bean3 from '../assets/ezbeanblue.jpg';
+import bean4 from '../assets/ezbeanred.jpg';
+import bean5 from '../assets/ezbeancollage.jpg';
 
 
 
@@ -60,8 +60,8 @@ class Bean extends Component {
     state = {  }
     render() { 
         return ( <Back><div>
-        <Title>MAGICAL EXPLOSIONS</Title>  
-     <Sub>FWY X N*E*R*D CONCEPT, 2010</Sub>
+        <Title>EZ BEAN x FRIENDSWITHYOU</Title>  
+     <Sub>THE GLASS HOUSE SUMMER PARTY</Sub>
    <Para>  On the occasion of The Glass House Summer Party’s 10th Anniversary, we partnered with Design Within Reach to produce a set of limited-edition Outdoor Eazy Bean Everest Chairs.<br></br>
    The Outdoor Eazy Bean Everest Chair by designer Françoise Séjourné is a luxurious twist on traditional beanbags – it’s really more like a chair, allowing you to sit in an upright or reclining position.<br></br>
    The Summer Party is on Saturday, June 10th from 12-4 pm, celebrating The Glass House’s 10th Anniversary of opening as a site of the National Trust for Historic Preservation. Start bidding on the benefit auction on Friday, May 26th, which includes works by Frank Stella, Carrie Mae Weems, Alex Katz, James Nares, Zaha Hadid, us, and many more. Proceeds from the Summer Party will go towards essential preservation work at the Glass House. 

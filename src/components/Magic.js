@@ -4,8 +4,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import magic from '../assets/MagicSeedDigital.png';
-import roll2 from '../assets/Rainbow_Roller_Rink.jpg';
+import magic from '../assets/magicseeddigital.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 

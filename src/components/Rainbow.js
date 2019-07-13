@@ -4,8 +4,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import roll1 from '../assets/Rainbow_rink_2.jpg';
-import roll2 from '../assets/Rainbow_Roller_Rink.jpg';
+import roll1 from '../assets/rainbow_rink_2.jpg';
+import roll2 from '../assets/rainbow_roller_rink.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 

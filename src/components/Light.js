@@ -4,12 +4,12 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import santa from '../assets/Santa_Blue.jpg';
-import santa2 from '../assets/Santa_night.jpg';
-import santa3 from '../assets/Santa_night4_rainbow.jpg';
-import santa4 from '../assets/Santa_Nightlife.jpg';
-import santa5 from '../assets/Santa_People_Gathering.jpg';
-import santa6 from '../assets/Santa_worlds_famous.jpg';
+import santa from '../assets/santa_blue.jpg';
+import santa2 from '../assets/santa_night.jpg';
+import santa3 from '../assets/santa_night4_rainbow.jpg';
+import santa4 from '../assets/santa_nightlife.jpg';
+import santa5 from '../assets/santa_people_gathering.jpg';
+import santa6 from '../assets/santa_worlds_famous.jpg';
 
 
 const Title = styled.p`

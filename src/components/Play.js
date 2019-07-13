@@ -4,13 +4,13 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import kermit from '../assets/Kermit2.jpg';
-import play from '../assets/Pinnochio.jpg';
-import play2 from '../assets/Playworks_Snoopy.jpg';
-import play3 from '../assets/Playworks_Hello_Kitty.jpg';
-import play4 from '../assets/HappyCollage.jpg';
-import play5 from '../assets/EvilCollage.jpg';
-import play6 from '../assets/Playworks_GumbyHorse2.jpg';
+import kermit from '../assets/kermit2.jpg';
+import play from '../assets/pinnochio.jpg';
+import play2 from '../assets/playworks_snoopy.jpg';
+import play3 from '../assets/playworks_hello_kitty.jpg';
+import play4 from '../assets/happycollage.jpg';
+import play5 from '../assets/evilcollage.jpg';
+import play6 from '../assets/playworks_gumbyhorse2.jpg';
 
 
 const Title = styled.p`

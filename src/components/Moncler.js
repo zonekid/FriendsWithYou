@@ -4,11 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import moncler from '../assets/Moncler_popup.jpg';
-import moncler2 from '../assets/Moncler_Sweater.jpg';
-import moncler3 from '../assets/Moncler_T-Shirt_overview.jpg';
-import moncler4 from '../assets/Moncler_model.jpg';
-import moncler5 from '../assets/Moncler_line.jpg';
+import moncler from '../assets/moncler_popup.jpg';
+import moncler2 from '../assets/moncler_sweater.jpg';
+import moncler3 from '../assets/moncler_t_shirt_overview.jpg';
+import moncler4 from '../assets/moncler_model.jpg';
+import moncler5 from '../assets/moncler_line.jpg';
 
 
 

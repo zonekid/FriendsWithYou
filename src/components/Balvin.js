@@ -4,10 +4,10 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import balvin from '../assets/J.BALVIN_DelGrande.jpg';
+import balvin from '../assets/j_balvin_delgrande.jpg';
 import balvin2 from '../assets/jbalvin_playtime.jpg';
-import balvin3 from '../assets/JBalvin_psychadel.jpg';
-import balvin4 from '../assets/Balvinrainbow_stage.jpg';
+import balvin3 from '../assets/jbalvin_psychadel.jpg';
+import balvin4 from '../assets/balvinrainbow_stage.jpg';
 
 const Title = styled.p`
 font-family: HiraginoSansGB-W3;

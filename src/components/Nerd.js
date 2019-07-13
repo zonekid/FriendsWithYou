@@ -4,13 +4,12 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import kermit from '../assets/Kermit2.jpg';
-import con from '../assets/Nerd_painting.jpg';
-import con2 from '../assets/Nerd_girl_box.jpg';
-import con3 from '../assets/Nerd-tsage_2.jpg';
-import con4 from '../assets/Nerd-car.jpg';
-import con5 from '../assets/Nerd_perform.jpg';
-import con6 from '../assets/Nerd_perform2.jpg';
+import con from '../assets/nerd_painting.jpg';
+import con2 from '../assets/nerd_girl_box.jpg';
+import con3 from '../assets/nerd_tsage_2.jpg';
+import con4 from '../assets/nerd_car.jpg';
+import con5 from '../assets/nerd_perform.jpg';
+import con6 from '../assets/nerd_perform2.jpg';
 
 
 const Title = styled.p`

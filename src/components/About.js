@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
-import snoopypt from '../assets/snoopypaint.png';
+import snoopypt from '../assets/snoopypaint.jpg';
 import Image from 'react-bootstrap/Image';
 
 

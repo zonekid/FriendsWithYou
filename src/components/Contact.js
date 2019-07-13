@@ -3,9 +3,8 @@ import styled from 'styled-components';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
-import rainbow from '../assets/rainfriends.png';
 import Image from 'react-bootstrap/Image'
-import contact3 from '../assets/Santa_night.jpg';
+import contact3 from '../assets/santa_night.jpg';
 import Contact2 from '../components/Contact2';
 
 const Titletact = styled.h1 `

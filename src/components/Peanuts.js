@@ -4,11 +4,11 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import peanuts from '../assets/FriendsWithYou_Peanuts.jpg';
-import peanuts2 from '../assets/Peanuts_hoodie.jpg';
-import peanuts3 from '../assets/Peanuts_yellowhoodie.jpg';
-import peanuts4 from '../assets/Champion_Peanuts.jpg';
-import peanuts5 from '../assets/Bamford_Peanuts.jpg';
+import peanuts from '../assets/friendswithyou_peanuts.jpg';
+import peanuts2 from '../assets/peanuts_hoodie.jpg';
+import peanuts3 from '../assets/peanuts_yellowhoodie.jpg';
+import peanuts4 from '../assets/champion_peanuts.jpg';
+import peanuts5 from '../assets/bamford_peanuts.jpg';
 
 
 

@@ -5,12 +5,12 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck'
-import amex from '../assets/AMEZ_Welcome_wide2.jpeg';
+import amex from '../assets/amez_welcome_wide2.jpg';
 import play from '../assets/jbalvin_playtime.jpg';
-import mace from '../assets/MACYs_Cloud_Rainbow.jpeg';
-import cave from '../assets/Light_Cave_Night2.jpg';
-import chill from '../assets/Korea_Chillin.jpg';
-import moncler from '../assets/Moncler_line.jpg';
+import mace from '../assets/macys_cloud_rainbow.jpg';
+import cave from '../assets/light_cave_night2.jpg';
+import chill from '../assets/korea_chillin.jpg';
+import moncler from '../assets/moncler_line.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 const Blgspce = styled.div `

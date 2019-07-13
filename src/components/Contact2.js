@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
-import rainbow from '../assets/friendimg.png';
+import rainbow from '../assets/friendimg.jpg';
 import Image from 'react-bootstrap/Image'
 
 

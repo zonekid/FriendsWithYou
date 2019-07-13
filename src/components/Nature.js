@@ -5,8 +5,8 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import Nav from 'react-bootstrap/Nav';
-import nature1 from '../assets/NaturesGiftExhibit.jpg';
-import nature2 from '../assets/NaturesGift2.jpg';
+import nature1 from '../assets/naturesgiftexhibit.jpg';
+import nature2 from '../assets/naturesgift2.jpg';
 
 
 

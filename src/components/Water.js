@@ -4,13 +4,13 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import something from '../assets/SITW_flyer.jpg';
-import something2 from '../assets/SITW_purp_green_float.jpeg';
-import something3 from '../assets/SITW_two_in_a_pod.jpg';
-import something4 from '../assets/SITW_people.jpg';
-import something5 from '../assets/SITW_Hov_P.jpg';
-import something6 from '../assets/SITW_Rainy_day.jpg';
-import something7 from '../assets/SITW_multiple.jpg';
+import something from '../assets/sitw_flyer.jpg';
+import something2 from '../assets/sitw_purp_green_float.jpg';
+import something3 from '../assets/sitw_two_in_a_pod.jpg';
+import something4 from '../assets/sitw_people.jpg';
+import something5 from '../assets/sitw_hov_p.jpg';
+import something6 from '../assets/sitw_rainy_day.jpg';
+import something7 from '../assets/sitw_multiple.jpg';
 
 const Title = styled.p`
 font-family: HiraginoSansGB-W3;

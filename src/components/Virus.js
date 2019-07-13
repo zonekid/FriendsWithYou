@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import viral from '../assets/happy_virus_digital.jpg';
-import viral2 from '../assets/HappyVirus_print.jpg';
+import viral2 from '../assets/happyvirus_print.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 
@@ -51,6 +51,7 @@ padding-top:60px;
 const Back = styled.div`
 background: rgba(205,214,225,0.20);
 padding-bottom:50px;
+padding-top:100px;
 `
 
 

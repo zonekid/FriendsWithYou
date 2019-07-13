@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import world from '../assets/popworld.jpg';
-import world2 from '../assets/PopWorld-promo.jpg';
+import world2 from '../assets/popworld_promo.jpg';
 
 
 

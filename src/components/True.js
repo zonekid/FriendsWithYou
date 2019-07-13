@@ -4,8 +4,8 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import Tru from '../assets/True_Blog.png';
-import Tru2 from '../assets/True_Rainbow_Cover.png';
+import Tru from '../assets/true_blog.jpg';
+import Tru2 from '../assets/true_rainbow_cover.jpg';
 
 
 

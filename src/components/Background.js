@@ -8,10 +8,10 @@ import Slider from 'react-animated-slider';
 import 'react-animated-slider/build/horizontal.css';
 import './slider-animations.css';
 import './styles.css';
-import macysp from '../assets/macys_parade.png';
-import cloud from '../assets/SITW_Hov_P.jpg';
-import sponge from '../assets/YellowSpongey.jpg';
-import nature from '../assets/NaturesGiftExhibit.jpg';
+
+import cloud from '../assets/sitw_hov_p.jpg';
+import sponge from '../assets/yellowspongey.jpg';
+import nature from '../assets/naturesgiftexhibit.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 const content = [
@@ -19,7 +19,7 @@ const content = [
 		title: `FRIENDSWITHYOU + PHARRELL AT SOMETHING IN THE WATER FESTIVAL`,
 		description:
 		`We were so honored and happy to have made a giant inflatable installation for Pharrell and his new festival Something in the Water!`,
-		button: 'works',
+		button: 'READ MORE',
 		image: cloud,
 		link:'/water'
 	},

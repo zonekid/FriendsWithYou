@@ -5,10 +5,10 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import korea from '../assets/korean_blue.jpg';
 import korea2 from '../assets/korea_night_rainbow.jpg';
-import korea3 from '../assets/Korea_Photoshoot.jpg';
-import korea4 from '../assets/Korea_inMall.jpg';
-import korea5 from '../assets/Korea_kids_playing.jpg';
-import korea6 from '../assets/Korea_photoshoot2.jpg';
+import korea3 from '../assets/korea_photoshoot.jpg';
+import korea4 from '../assets/korea_inmall.jpg';
+import korea5 from '../assets/korea_kids_playing.jpg';
+import korea6 from '../assets/korea_photoshoot2.jpg';
 import Image from 'react-bootstrap/Image';
 
 const Title = styled.p`

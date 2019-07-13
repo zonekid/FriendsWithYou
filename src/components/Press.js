@@ -4,7 +4,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Press2 from '../components/Press2';
-import bgprs from '../assets/BG-prs2.png';
+import bgprs from '../assets/bg-prs2.jpg';
 
 
 const Background = styled.div `

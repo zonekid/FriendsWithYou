@@ -6,9 +6,9 @@ import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 import pop1 from '../assets/popworld.jpg';
-import snoopbrd from '../assets/FriendsWithYou_Peanuts.jpg';
-import Trublog from '../assets/True_Blog.png';
-import Balv from '../assets/J.BALVIN_DelGrande.jpg';
+import snoopbrd from '../assets/friendswithyou_peanuts.jpg';
+import Trublog from '../assets/true_blog.jpg';
+import Balv from '../assets/j_balvin_delgrande.jpg';
 import Nav from 'react-bootstrap/Nav';
 
 const Postimg = styled.div `
@@ -109,7 +109,7 @@ class Blog2 extends Component {
 <Postimg4>
 
 <Nav.Item>
-    <Nav.Link href='/balvin'>
+    <Nav.Link href='#/balvin'>
 <p style={{paddingLeft:20, paddingTop:20}}>23 April 2019</p>
 <h2 style={{paddingLeft:20}}>J BALVIN X FRIENDSWITHYOU AT COACHELLA 2019</h2>
 <p style={{textAlign:'right', paddingRight:20, paddingBottom:20}}>Learn More <span style={{color:'#E84DCF'}}>>></span> </p>
@@ -124,7 +124,7 @@ class Blog2 extends Component {
                 <Col xl={{span: 8, offset: 1}}>
 <Postimg2>
 <Nav.Item>
-    <Nav.Link href='/peanuts'>
+    <Nav.Link href='#/peanuts'>
 <p style={{paddingLeft:20, paddingTop:20}}>7 October 2018</p>
 <h2 style={{paddingLeft:20}}>“HOW ORIGINAL” AT STORY – PEANUTS GLOBAL ARTIST COLLECTIVE</h2>
 <p style={{textAlign:'right', paddingRight:20, paddingBottom:20}}>Learn More <span style={{color:'#E84DCF'}}>>></span> </p>
@@ -140,7 +140,7 @@ class Blog2 extends Component {
 <Postimg3>
 
 <Nav.Item>
-    <Nav.Link href='/true'>
+    <Nav.Link href='#/true'>
 <p style={{paddingLeft:20, paddingTop:20}}>15 June 2018</p>
 <h2 style={{paddingLeft:20}}>SEASON 2 OF TRUE AND THE RAINBOW KINGDOM ON NETFLIX</h2>
 <p style={{textAlign:'right', paddingRight:20, paddingBottom:20}}>Learn More <span style={{color:'#E84DCF'}}>>></span> </p>
@@ -154,7 +154,7 @@ class Blog2 extends Component {
                 <Col xl={{span: 8, offset: 1}}>
 <Postimg>
 <Nav.Item>
-    <Nav.Link href='/pop'>
+    <Nav.Link href='#/pop'>
 <p style={{paddingLeft:20, paddingTop:20}}>5 November 2018</p>
 <h2 style={{paddingLeft:20}}>POPWORLD AT COMPLEXCON NOV. 3RD & 4TH IN LONG BEACH, CA</h2>
 <p style={{textAlign:'right', paddingRight:20, paddingBottom:20}}>Learn More <span style={{color:'#E84DCF'}}>>></span> </p>

@@ -4,9 +4,9 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import flate from '../assets/Inflate_cover.jpg';
-import flate2 from '../assets/Inflate_1.jpeg';
-import flate3 from '../assets/Inflate2.jpeg';
+import flate from '../assets/inflate_cover.jpg';
+import flate2 from '../assets/inflate_1.jpg';
+import flate3 from '../assets/inflate2.jpg';
 
 
 

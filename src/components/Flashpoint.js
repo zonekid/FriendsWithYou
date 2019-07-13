@@ -5,8 +5,8 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
 import Nav from 'react-bootstrap/Nav';
-import flash from '../assets/LittleCloudSculpture_Home.jpg';
-import flash2 from '../assets/Little-Cloud-in-Crystal.jpg';
+import flash from '../assets/littlecloudsculpture_home.jpg';
+import flash2 from '../assets/little_cloud_in_crystal.jpg';
 
 
 

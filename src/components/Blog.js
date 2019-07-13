@@ -5,8 +5,8 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
-import sitw from '../assets/SITW_flyer.jpg';
-import Bgb from '../assets/blog_bg.png';
+import sitw from '../assets/sitw_flyer.jpg';
+import Bgb from '../assets/blog_bg.jpg';
 import Blog2 from '../components/Blog2';
 import Nav from 'react-bootstrap/Nav';
 

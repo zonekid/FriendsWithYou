@@ -5,22 +5,21 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
-import koreanblue from '../assets/korean_blue.jpg';
-import rainbowrink from '../assets/Rainbow_rink_2.jpg';
-import santa from '../assets/Santa_People_Gathering.jpg';
-import sanFran from '../assets/IntoTheClouds.jpg';
+import rainbowrink from '../assets/rainbow_rink_2.jpg';
+import santa from '../assets/santa_people_gathering.jpg';
+import sanFran from '../assets/intotheclouds.jpg';
 import pinkmoon from '../assets/korea_night_rainbow.jpg';
-import kermit from '../assets/Kermit2.jpg';
-import cloud from '../assets/LittleCloudSculpture_Home2.jpg';
-import bubbly from '../assets/Bubbly_fiberglass2.jpg';
-import natureg from '../assets/NaturesGiftExhibit2.jpg';
-import magicseed from '../assets/MagicSeedDigital.png';
-import nerd from '../assets/Nerd_painting.jpg';
-import boom from '../assets/Rainbow_boom.jpg';
+import kermit from '../assets/kermit2.jpg';
+import cloud from '../assets/littlecloudsculpture_home2.jpg';
+import bubbly from '../assets/bubbly_fiberglass2.jpg';
+import natureg from '../assets/naturesgiftexhibit.jpg';
+import magicseed from '../assets/magicseeddigital.jpg';
+import nerd from '../assets/nerd_painting.jpg';
+import boom from '../assets/rainbow_boom.jpg';
 import virus from '../assets/happy_virus_digital.jpg';
-import ezbean from '../assets/RainbowBean2.jpg';
-import inflate from '../assets/Inflate_cover.jpg';
-import moncler from '../assets/Moncler_popup.jpg';
+import ezbean from '../assets/rainbowbean2.jpg';
+import inflate from '../assets/inflate_cover.jpg';
+import moncler from '../assets/moncler_popup.jpg';
 import heart from '../assets/heartcover.jpg';
 import Nav from 'react-bootstrap/Nav';
 
@@ -262,7 +261,7 @@ class Portfolio extends Component {
       image:[pinkmoon, rainbowrink, santa, sanFran],
       title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
       text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-      link:['#/seoul', '#/rainbow', '#/light', '#intoclouds']
+      link:['#/seoul', '#/rainbow', '#/light', '#/intoclouds']
     }
     
 exhibitionChange = () => {

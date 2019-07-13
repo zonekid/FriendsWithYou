@@ -4,10 +4,10 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import parade from '../assets/macys_parade.png';
-import parade2 from '../assets/MACYs_Cloud_Rainbow.jpeg';
-import parade3 from '../assets/MACYs_Radio_CIty.jpeg';
-import parade4 from '../assets/Cloud_CBS.jpeg';
+import parade from '../assets/macys_parade.jpg';
+import parade2 from '../assets/macys_cloud_rainbow.jpg';
+import parade3 from '../assets/macys_radio_city.jpg';
+import parade4 from '../assets/cloud_cbs.jpg';
 
 
 

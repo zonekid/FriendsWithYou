@@ -3,9 +3,9 @@ import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Container from 'react-bootstrap/Container';
 import styled from 'styled-components';
-import instagram from '../assets/linkedin.png';
-import facebook from '../assets/facebook.png';
-import twitter from '../assets/twitter.png';
+import instagram from '../assets/linkedin.jpg';
+import facebook from '../assets/facebook.jpg';
+import twitter from '../assets/twitter.jpg';
 import { NavHashLink as NavLink } from 'react-router-hash-link';
 
 const NavStyles = styled.div `

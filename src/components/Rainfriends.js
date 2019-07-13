@@ -4,12 +4,12 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image';
-import boom from '../assets/Rainbow_boom.jpg';
-import boom1 from '../assets/Rainbow_blue_white.jpg';
-import boom2 from '../assets/Rainbow_green.jpg';
-import boom3 from '../assets/Rainbow_bowtie.jpg';
-import boom4 from '../assets/Rainbow_yellow.jpg';
-import boom5 from '../assets/RainbowFriends1.jpg';
+import boom from '../assets/rainbow_boom.jpg';
+import boom1 from '../assets/rainbow_blue_white.jpg';
+import boom2 from '../assets/rainbow_green.jpg';
+import boom3 from '../assets/rainbow_bowtie.jpg';
+import boom4 from '../assets/rainbow_yellow.jpg';
+import boom5 from '../assets/rainbowfriends1.jpg';
 
 
 
@@ -51,6 +51,7 @@ padding-top:60px;
 const Back = styled.div`
 background: rgba(205,214,225,0.20);
 padding-bottom:50px;
+padding-top:100px;
 `
 
 
