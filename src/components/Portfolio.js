@@ -262,14 +262,14 @@ class Portfolio extends Component {
       image:[pinkmoon, rainbowrink, santa, sanFran],
       title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
       text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-      link:['#/seoul', '/#rainbow', '/light', '/intoclouds']
+      link:['#/seoul', '#/rainbow', '#/light', '#intoclouds']
     }
     
 exhibitionChange = () => {
 this.setState({image:[natureg, cloud, bubbly, kermit],
   title: [`Nature's Gift`, `Flashpoint`, `Happy Rainbow`, `Playworks`],
   text: ['Oakland', 'New York City', 'Hong Kong', 'Los Angeles'],
-  link:['/nature', '/flashpoint', '/happy', '/play']
+  link:['#nature', '#flashpoint', '#/happy', '#/play']
 })
 }
 
@@ -277,7 +277,7 @@ installationChange = () => {
   this.setState({image:[pinkmoon, rainbowrink, santa, sanFran],
     title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
     text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-    link:['/seoul', '/rainbow', '/light', '/intoclouds']
+    link:['#/seoul', '#/rainbow', '#/light', '#/intoclouds']
   })
 
 }
@@ -286,7 +286,7 @@ printChange = () => {
   this.setState({image:[magicseed, nerd, boom, virus],
     title: ['Magic Seed', 'Magical Explosions', 'Rainbow Friends', 'Happy Virus'],
     text: ['Oakland', 'California', 'Sao Paulo', 'New York City'],
-    link:['/magic', '/nerd', '/rain', '/virus']
+    link:['#/magic', '#/nerd', '#/rain', '#/virus']
   })
 
 }
@@ -296,7 +296,7 @@ sculptureChange = () => {
   this.setState({image:[ezbean, inflate, moncler, heart],
     title: ['EZ Bean Everest', 'Rainbowl', 'Moncler Collection', 'Heart Sculptures'],
     text: ['New Canaan', 'Austin', 'Tokyo', 'Los Angeles'],
-    link:['/bean', '/rainbowl', '/moncler', '/heart']
+    link:['#/bean', '#/rainbowl', '#/moncler', '#/heart']
   })
 
 }
