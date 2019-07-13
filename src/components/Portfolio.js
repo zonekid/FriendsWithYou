@@ -262,7 +262,7 @@ class Portfolio extends Component {
       image:[pinkmoon, rainbowrink, santa, sanFran],
       title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
       text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-      link:['/seoul', '/rainbow', '/light', '/intoclouds']
+      link:['#/seoul', '/rainbow', '/#light', '/intoclouds']
     }
     
 exhibitionChange = () => {
