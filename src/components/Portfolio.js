@@ -23,7 +23,7 @@ import inflate from '../assets/Inflate_cover.jpg';
 import moncler from '../assets/Moncler_popup.jpg';
 import heart from '../assets/heartcover.jpg';
 import Nav from 'react-bootstrap/Nav';
-import { NavHashLink as NavLink } from 'react-router-hash-link';
+
 
 const Ovltext = styled.div `
 text-transform:uppercase;
@@ -262,7 +262,7 @@ class Portfolio extends Component {
       image:[pinkmoon, rainbowrink, santa, sanFran],
       title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
       text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-      link:['#/seoul', '/rainbow', '/#light', '/intoclouds']
+      link:['#/seoul', '/#rainbow', '/light', '/intoclouds']
     }
     
 exhibitionChange = () => {
@@ -335,7 +335,7 @@ PORTFOLIO
  <Cheight> <Card.Img variant="top" src={this.state.image[0]} /></Cheight> 
     <Card.ImgOverlay>
       <Nav.Item>
-    <NavLink href={this.state.link[0]}>
+    <Nav.Link href={this.state.link[0]}>
       <Ovl1>
         <Ovltext>
       <Card.Title style={{fontSize: 24}}>{this.state.title[0]}</Card.Title>
@@ -344,7 +344,7 @@ PORTFOLIO
       </Card.Text>
       </Ovltext>
       </Ovl1>
-      </NavLink>
+      </Nav.Link>
   </Nav.Item>
       </Card.ImgOverlay>
 
@@ -353,7 +353,7 @@ PORTFOLIO
  <Cheight> <Card.Img variant="top" src={this.state.image[1]} /></Cheight>
     <Card.ImgOverlay>
     <Nav.Item>
-    <NavLink href={this.state.link[1]}>
+    <Nav.Link href={this.state.link[1]}>
       <Ovl2>
         <Ovltext>
       <Card.Title style={{fontSize: 24}}>{this.state.title[1]}</Card.Title>
@@ -362,7 +362,7 @@ PORTFOLIO
 </Card.Text>
 </Ovltext>
 </Ovl2>
-</NavLink>
+</Nav.Link>
   </Nav.Item>
 </Card.ImgOverlay>
   </Card>
@@ -374,7 +374,7 @@ PORTFOLIO
   <Cheight>    <Card.Img  variant="top" src={this.state.image[2]} /></Cheight> 
     <Card.ImgOverlay>
     <Nav.Item>
-    <NavLink to={this.state.link[2]} href={this.state.link[2]}>
+    <Nav.Link href={this.state.link[2]}>
       <Ovl3>
         <Ovltext>
       <Card.Title style={{fontSize: 24}}>{this.state.title[2]}</Card.Title>
@@ -383,7 +383,7 @@ PORTFOLIO
       </Card.Text>
       </Ovltext>
       </Ovl3>
-      </NavLink>
+      </Nav.Link>
   </Nav.Item>
       </Card.ImgOverlay>
 
@@ -392,7 +392,7 @@ PORTFOLIO
   <Cheight>   <Card.Img  variant="top" src={this.state.image[3]} /></Cheight> 
     <Card.ImgOverlay>
     <Nav.Item>
-    <NavLink href={this.state.link[3]}>
+    <Nav.Link href={this.state.link[3]}>
       <Ovl4>
         <Ovltext>
       <Card.Title style={{fontSize: 24}}>{this.state.title[3]}</Card.Title>
@@ -401,7 +401,7 @@ PORTFOLIO
       </Card.Text>
       </Ovltext>
       </Ovl4>
-      </NavLink>
+      </Nav.Link>
   </Nav.Item>
       </Card.ImgOverlay>
   </Card>
