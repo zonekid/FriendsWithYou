@@ -58,6 +58,7 @@ class Seoul extends Component {
     state = {  }
     render() { 
         return ( <Back><div>
+        
         <Title>SUPER MOON</Title>  
      <Sub>MONUMENTAL PUBLIC ARTWORK IN SEOUL, KOREA<br></br> 
         SEPTEMBER 1–OCTOBER 3, 2016</Sub>

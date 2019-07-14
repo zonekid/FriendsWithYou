@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Link, Switch } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Navigation from './components/Navigation';
 import Main from './components/Main';
@@ -31,6 +31,7 @@ import Balvin from './components/Balvin';
 import Water from './components/Water';
 import Macy from './components/Macy';
 import {Nomatch} from './components/Nomatch';
+import ScrollToTop from './components/Scroll';
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
  <React.Fragment>
    <Container fluid>
 <Router basename={process.env.PUBLIC_URL}>
+<ScrollToTop>
 <Navigation/>
   <Switch>
    <Route exact path="/" component={Main}/>
@@ -48,7 +50,7 @@ function App() {
     <Route path="/contact" component={Contact}/>
     <Route path="/seoul" component={Seoul}/>
     <Route path="/rainbow" component={Rainbow}/>
-    <Route path="/#light" component={Light}/>
+    <Route path="/light" component={Light}/>
     <Route path="/intoclouds" component={Clouds}/>
     <Route path="/nature" component={Nature}/>
     <Route path="/flashpoint" component={Flashpoint}/>
@@ -70,7 +72,7 @@ function App() {
     <Route path="/macy" component={Macy}/>
     <Route component={Nomatch}/>  
   </Switch>
-
+  </ScrollToTop>
 </Router>
    </Container>
  </React.Fragment>
