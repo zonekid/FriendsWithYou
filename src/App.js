@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Route, Link, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link, Switch } from "react-router-dom";
 import Container from 'react-bootstrap/Container';
 import Navigation from './components/Navigation';
 import Main from './components/Main';
@@ -48,7 +48,7 @@ function App() {
     <Route path="/contact" component={Contact}/>
     <Route path="/seoul" component={Seoul}/>
     <Route path="/rainbow" component={Rainbow}/>
-    <Route path="/light" component={Light}/>
+    <Route path="/#light" component={Light}/>
     <Route path="/intoclouds" component={Clouds}/>
     <Route path="/nature" component={Nature}/>
     <Route path="/flashpoint" component={Flashpoint}/>

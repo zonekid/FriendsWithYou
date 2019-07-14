@@ -261,14 +261,14 @@ class Portfolio extends Component {
       image:[pinkmoon, rainbowrink, santa, sanFran],
       title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
       text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-      link:['#/seoul', '#/rainbow', '#/light', '#/intoclouds']
+      link:['seoul', '#/rainbow', '/#light', '/intoclouds']
     }
     
 exhibitionChange = () => {
 this.setState({image:[natureg, cloud, bubbly, kermit],
   title: [`Nature's Gift`, `Flashpoint`, `Happy Rainbow`, `Playworks`],
   text: ['Oakland', 'New York City', 'Hong Kong', 'Los Angeles'],
-  link:['#nature', '#flashpoint', '#/happy', '#/play']
+  link:['#/nature', '#/flashpoint', '#/happy', '#/play']
 })
 }
 
@@ -276,7 +276,7 @@ installationChange = () => {
   this.setState({image:[pinkmoon, rainbowrink, santa, sanFran],
     title: ['Super Moon', 'Rainbow City Roller Rink', 'Light Wave', 'Into the Clouds'],
     text: ['Seoul Korea', 'Detroit', 'Santa Monica', 'San Francisco'],
-    link:['#/seoul', '#/rainbow', '#/light', '#/intoclouds']
+    link:['seoul', '#/rainbow', '/#light', '/intoclouds']
   })
 
 }
