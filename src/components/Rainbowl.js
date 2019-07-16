@@ -7,13 +7,11 @@ import Image from 'react-bootstrap/Image';
 import flate from '../assets/inflate_cover.jpg';
 import flate2 from '../assets/inflate_1.jpg';
 import flate3 from '../assets/inflate2.jpg';
-
-
-
+import './font.css';
 
 
 const Title = styled.p`
-font-family: HiraginoSansGB-W3;
+font-family: Hiragino Sans GB3;
 font-size: 48px;
 color: #000000;
 letter-spacing: 0.01px;
@@ -22,7 +20,7 @@ padding-top:50px;
 `
 
 const Sub = styled.p`
-font-family: HiraginoSansGB-W3;
+font-family: Hiragino Sans GB3;
 font-size: 20px;
 color: #000000;
 text-align: center;
@@ -30,7 +28,7 @@ text-align: center;
 `
 
 const Para = styled.p`
-font-family: AvenirNext-Regular;
+font-family: Avenir;
 font-size: 18px;
 color: #000000;
 text-align: center;

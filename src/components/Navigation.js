@@ -7,6 +7,7 @@ import instagram from '../assets/linkedin.jpg';
 import facebook from '../assets/facebook.jpg';
 import twitter from '../assets/twitter.jpg';
 import { NavHashLink as NavLink } from 'react-router-hash-link';
+import './font.css';
 
 const NavStyles = styled.div `
 
@@ -45,7 +46,7 @@ border-radius: 8px;
 
 
 .navbar .cool {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -60,7 +61,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool1 {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -73,7 +74,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool2 {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -86,7 +87,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool3 {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -99,7 +100,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool4 {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -112,7 +113,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool5 {
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;

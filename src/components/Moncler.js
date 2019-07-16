@@ -9,12 +9,12 @@ import moncler2 from '../assets/moncler_sweater.jpg';
 import moncler3 from '../assets/moncler_t_shirt_overview.jpg';
 import moncler4 from '../assets/moncler_model.jpg';
 import moncler5 from '../assets/moncler_line.jpg';
-
+import './font.css';
 
 
 
 const Title = styled.p`
-font-family: HiraginoSansGB-W3;
+font-family: Hiragino Sans GB3;
 font-size: 48px;
 color: #000000;
 letter-spacing: 0.01px;
@@ -23,7 +23,7 @@ padding-top:50px;
 `
 
 const Sub = styled.p`
-font-family: HiraginoSansGB-W3;
+font-family: Hiragino Sans GB3;
 font-size: 20px;
 color: #000000;
 text-align: center;
@@ -31,13 +31,13 @@ text-align: center;
 `
 
 const Para = styled.p`
-font-family: AvenirNext-Regular;
+font-family: Avenir;
 font-size: 18px;
 color: #000000;
 text-align: center;
 width:70%;
 margin:0 auto;
-padding-top:50px;
+padding-top:40px;
 @media (max-width: 575px) {
   width:100%;
 }

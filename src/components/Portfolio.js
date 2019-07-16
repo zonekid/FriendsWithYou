@@ -22,7 +22,7 @@ import inflate from '../assets/inflate_cover.jpg';
 import moncler from '../assets/moncler_popup.jpg';
 import heart from '../assets/heartcover.jpg';
 import Nav from 'react-bootstrap/Nav';
-
+import './font.css';
 
 const Ovltext = styled.div `
 text-transform:uppercase;
@@ -119,7 +119,7 @@ padding-bottom: 200px;
 
 
 const Portheader = styled.h1 `
-font-family: HiraginoSansGB-W6;
+font-family: Hiragino Sans GB;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;
@@ -136,7 +136,7 @@ color: #E84DCF;
 }
 
 @media (min-width: 991px) {
-    text-align:center;
+   
     padding-top: 140px;
 }
 
@@ -177,7 +177,7 @@ const PortBox = styled.div `
 `
 
 const List = styled.div `
-font-family: HiraginoSansGB-W3;
+font-family: Hiragino Sans GB3;
 font-size: 14px;
 color: #000000;
 letter-spacing: 0.96px;
@@ -308,14 +308,14 @@ sculptureChange = () => {
             <PortBox>
 
         <Row>
-        <Col  lg={{ offset: 1}} xl={{ offset: 5}} >
+        <Col  lg={{ offset: 0}} xl={{ offset: 4}} >
 <Portheader>
 PORTFOLIO
 </Portheader>
 </Col>
 </Row>
 <Row>   
-    <Col lg={{offset:8}} xl={{offset:9}}>
+    <Col lg={{offset:8}} xl={{offset:8}}>
         <List>
           
         <ListUnderline onClick={this.exhibitionChange}>Exhibitions<br></br></ListUnderline>

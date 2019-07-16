@@ -1,5 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,900');
 
+@font-face {font-family: "Hiragino Sans GB";
+  src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot");
+  src: url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.eot?#iefix") format("embedded-opentype"),
+  url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff2") format("woff2"),
+  url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.woff") format("woff"),
+  url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.ttf") format("truetype"),
+  url("//db.onlinewebfonts.com/t/3f086dbc376893f56b4a9c4d3cac5df9.svg#Hiragino Sans GB") format("svg");
+}
+
+
 body {
   font-family: 'Lato', sans-serif;
   box-sizing: border-box;
@@ -159,7 +169,7 @@ button:hover {
 }
 
 .slider-content .inner button{
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
   -webkit-transition-delay: 0s;
           transition-delay: 0s;
 }
@@ -171,7 +181,7 @@ button:hover {
   color: #FFFFFF;
   font-size: 64px;
   line-height: 1;
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 }
 
 .slider-content .inner p {
@@ -180,7 +190,7 @@ button:hover {
   line-height: 1.5;
   margin: 20px auto 30px;
   max-width: 640px;
-  font-family: HiraginoSansGB-W6;
+  font-family: Hiragino Sans GB;
 }
 
 .slider-content section {

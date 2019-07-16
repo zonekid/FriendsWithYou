@@ -6,9 +6,10 @@ import Container from 'react-bootstrap/Container';
 import Image from 'react-bootstrap/Image'
 import contact3 from '../assets/santa_night.jpg';
 import Contact2 from '../components/Contact2';
+import './font.css';
 
 const Titletact = styled.h1 `
-font-family: HiraginoSansGB-W6;
+font-family: Hiragino Sans GB;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;
@@ -76,7 +77,7 @@ padding-bottom:600px;
     padding-bottom:100px;
 }
 
-@media (min-width: 1367px) {
+@media (min-width: 1200px) {
     background-size: 50%;
     padding-bottom:300px;
 }

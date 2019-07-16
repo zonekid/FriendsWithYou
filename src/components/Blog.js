@@ -9,9 +9,10 @@ import sitw from '../assets/sitw_flyer.jpg';
 import Bgb from '../assets/blog_bg.jpg';
 import Blog2 from '../components/Blog2';
 import Nav from 'react-bootstrap/Nav';
+import './font.css';
 
 const BlogHeader = styled.h1 `
-font-family: HiraginoSansGB-W6;
+font-family: Hiragino Sans GB;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;
@@ -75,7 +76,7 @@ class Blog extends Component {
     <Nav.Link href='/water'>
     <Card border="light" className="h-100">
     <Card.Body>
-      <Card.Title style={{color:'#000000', fontFamily: 'HiraginoSansGB-W6', textAlign:'center'}}>
+      <Card.Title style={{color:'#000000', fontFamily: 'Hiragino Sans GB', textAlign:'center'}}>
       FRIENDSWITHYOU INFLATABLES AT SOMETHING IN THE WATER IN VIRGINIA BEACH
       </Card.Title>
     </Card.Body>

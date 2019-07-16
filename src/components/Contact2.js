@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import rainbow from '../assets/friendimg.jpg';
 import Image from 'react-bootstrap/Image'
-
+import './font.css';
 
 
 const FriendsTitle = styled.p `
@@ -44,7 +44,7 @@ const Six = styled.div `
  
 }
 
-@media (min-width: 1367px) {
+@media (min-width: 1200px) {
 
 padding-top:200px;
  }

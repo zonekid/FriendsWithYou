@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Press2 from '../components/Press2';
 import bgprs from '../assets/bg-prs2.jpg';
-
+import './font.css';
 
 const Background = styled.div `
 background-image: url(${bgprs});
@@ -16,7 +16,7 @@ padding-top: 100px;
 `
 
 const Pheader = styled.h1 `
-font-family: HiraginoSansGB-W6;
+font-family: Hiragino Sans GB;
 font-size: 59.35px;
 color: #ffffff;
 letter-spacing: 1.82px;
@@ -57,7 +57,7 @@ padding-top:300px;
 `
 
 const Exp = styled.div `
-font-family: HiraginoSansGB-W6;
+font-family: Hiragino Sans GB;
 color: #ffffff;
 
 @media (max-width: 575px) {

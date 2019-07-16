@@ -5,10 +5,10 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import snoopypt from '../assets/snoopypaint.jpg';
 import Image from 'react-bootstrap/Image';
-
+import './font.css';
 
 const Friends = styled.h1 `
- font-family: DefinatelyMaybe;
+ font-family: DefinitelyMaybe;
 font-size: 65px;
 letter-spacing: 0;
 @media (max-width: 575px) {
@@ -51,7 +51,7 @@ padding-top: 180px;
 `
 
 const Bio = styled.p `
-font-family: AvenirNext-Regular;
+font-family: Avenir;
 font-size: 16px;
 color: #000000;
 letter-spacing: 1px;
