@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fe1febeb3d5941abff2d452ae6cc7a5",
+    "revision": "6fdda598d338570ae9cf876ec5539cea",
     "url": "/friendswithyou/index.html"
   },
   {
-    "revision": "a378ddeac98f86908507",
+    "revision": "b5a712cffbca1dd7c603",
     "url": "/friendswithyou/static/css/2.d4c5f937.chunk.css"
   },
   {
-    "revision": "f77543ef16e592cfbb19",
-    "url": "/friendswithyou/static/css/main.842f7115.chunk.css"
+    "revision": "f0ea35d7b2aa8afbc91b",
+    "url": "/friendswithyou/static/css/main.f9b7481f.chunk.css"
   },
   {
-    "revision": "a378ddeac98f86908507",
-    "url": "/friendswithyou/static/js/2.15220e19.chunk.js"
+    "revision": "b5a712cffbca1dd7c603",
+    "url": "/friendswithyou/static/js/2.65cf68b0.chunk.js"
   },
   {
-    "revision": "f77543ef16e592cfbb19",
-    "url": "/friendswithyou/static/js/main.5b347038.chunk.js"
+    "revision": "f0ea35d7b2aa8afbc91b",
+    "url": "/friendswithyou/static/js/main.0059ddd8.chunk.js"
   },
   {
     "revision": "2ee975e4bc196036c55a",
     "url": "/friendswithyou/static/js/runtime~main.8362965b.js"
+  },
+  {
+    "revision": "bdf471713ee7dec3e19576abe39ee749",
+    "url": "/friendswithyou/static/media/Avenir.bdf47171.ttc"
+  },
+  {
+    "revision": "fb2985b0f3af434425b806e5a7c8c77c",
+    "url": "/friendswithyou/static/media/DefinitelyMaybe.fb2985b0.ttf"
   },
   {
     "revision": "546ce36373a4ac937a067aa5e3c47e48",
