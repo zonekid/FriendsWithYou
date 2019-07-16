@@ -13,7 +13,10 @@ import Blog from '../components/Blog';
 import Contact from '../components/Contact';
 
 const Port = styled.div `
+@media (max-width: 575px) {
+  padding-top:80px;
 
+}
 
 
 `
@@ -25,7 +28,7 @@ class Main extends Component {
         return (  
 <div>
 <div id="home">
- <Background/>
+ <Port><Background/></Port>
  </div>
  <div id="about">
  <About/>

@@ -218,7 +218,7 @@ and (orientation : landscape) {
 `
 
 const ListUnderline = styled.span `
-:hover{
+&:hover{
     /* text-decoration: underline;
     text-decoration-color: #E84DCF; */
     border-bottom: 2px solid #E84DCF;
