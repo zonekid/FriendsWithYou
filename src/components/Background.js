@@ -21,7 +21,7 @@ const content = [
 		`We were so honored and happy to have made a giant inflatable installation for Pharrell and his new festival Something in the Water!`,
 		button: 'READ MORE',
 		image: cloud,
-		link:'/water'
+		link:'#/water'
 	},
 	{
 		title: `PLAYWORKS: THE GOLDEN AGE`,
@@ -29,7 +29,7 @@ const content = [
 		'This series of works play with the discovery and abstraction of the figure, using the texturally soft and informal medium of plastiline. We depict our cartoon heroes, pop culture icons, mass media, and memes that affect us daily.',
 		button: 'Discover',
 		image: sponge,
-		link:'/PLAY'
+		link:'#/play'
 	},
 	{
 		title: `NATURE'S GIFT`,
@@ -37,7 +37,7 @@ const content = [
 		`We're so excited to announce our museum exhibition, Nature’s Gift: Humans, Friends & The Unknown, an immersive experience featuring a large-scale commissioned work at the Oakland Museum of California.`,
 		button: 'Read More',
 		image: nature,
-		link:'/nature'
+		link:'#/nature'
 	}
 ];
 

@@ -73,7 +73,7 @@ class Blog extends Component {
 <Row>
     <Col style={{paddingTop:30,}} lg={{span:6, offset: 3}} md={{span:6, offset: 3}} xl={{span:5, offset: 4}}>
     <Nav.Item>
-    <Nav.Link href='/water'>
+    <Nav.Link href='#/water'>
     <Card border="light" className="h-100">
     <Card.Body>
       <Card.Title style={{color:'#000000', fontFamily: 'Hiragino Sans GB', textAlign:'center'}}>
