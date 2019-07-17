@@ -308,14 +308,14 @@ sculptureChange = () => {
             <PortBox>
 
         <Row>
-        <Col  lg={{ offset: 0}} xl={{ offset: 4}} >
+        <Col  lg={{ offset: 0 }} xl={{ offset: 2}} >
 <Portheader>
 PORTFOLIO
 </Portheader>
 </Col>
 </Row>
 <Row>   
-    <Col lg={{offset:8}} xl={{offset:8}}>
+    <Col lg={{offset:8}} xl={{offset:5}}>
         <List>
           
         <ListUnderline onClick={this.exhibitionChange}>Exhibitions<br></br></ListUnderline>

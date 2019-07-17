@@ -126,7 +126,7 @@ text-transform: uppercase;
 };
 
 .navbar-brand {
-  font-family: DefinatelyMaybe;
+  font-family: DefinitelyMaybe;
 font-size: 30px;
 color: #000000;
 letter-spacing: 0;
