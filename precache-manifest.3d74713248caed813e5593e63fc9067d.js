@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4216915299150912ae524a954bdc414",
+    "revision": "e794ad9441c13099a5c09063b09b3b4e",
     "url": "/friendswithyou/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/css/2.d4c5f937.chunk.css"
   },
   {
-    "revision": "c07d2cd41282f3198395",
+    "revision": "e0f1b306c76a0e5e50c2",
     "url": "/friendswithyou/static/css/main.f9b7481f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/js/2.65cf68b0.chunk.js"
   },
   {
-    "revision": "c07d2cd41282f3198395",
-    "url": "/friendswithyou/static/js/main.c44093f9.chunk.js"
+    "revision": "e0f1b306c76a0e5e50c2",
+    "url": "/friendswithyou/static/js/main.f8582ae7.chunk.js"
   },
   {
     "revision": "2ee975e4bc196036c55a",
@@ -30,6 +30,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb2985b0f3af434425b806e5a7c8c77c",
     "url": "/friendswithyou/static/media/DefinitelyMaybe.fb2985b0.ttf"
+  },
+  {
+    "revision": "099c813d7b2a06896cd5e5a2124b6b8a",
+    "url": "/friendswithyou/static/media/Optimized-evilcollage.099c813d.jpg"
+  },
+  {
+    "revision": "f26e59e3b70fa302c69ffd6844529c98",
+    "url": "/friendswithyou/static/media/Optimized-happycollage.f26e59e3.jpg"
+  },
+  {
+    "revision": "e552ec900c139a95e87b5d8292dd8a44",
+    "url": "/friendswithyou/static/media/Optimized-rainbow_rink_2.e552ec90.jpg"
+  },
+  {
+    "revision": "bb18bf5b6cb53e466dfa1ec8e7286a63",
+    "url": "/friendswithyou/static/media/Optimized-yellowspongey.bb18bf5b.jpg"
   },
   {
     "revision": "546ce36373a4ac937a067aa5e3c47e48",
@@ -72,10 +88,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/media/color_of_purple.457b610d.jpg"
   },
   {
-    "revision": "b5936f9ab4898ef5f9d8f6d54cf3b110",
-    "url": "/friendswithyou/static/media/evilcollage.b5936f9a.jpg"
-  },
-  {
     "revision": "37f7b121178f3c637e795e1d6a373ee3",
     "url": "/friendswithyou/static/media/ezbeanblue.37f7b121.jpg"
   },
@@ -114,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6778dde144b957aaa125d9812fdf8322",
     "url": "/friendswithyou/static/media/happy_virus_digital.6778dde1.jpg"
-  },
-  {
-    "revision": "d33e964c93ae5b69fa341f46c32aedb7",
-    "url": "/friendswithyou/static/media/happycollage.d33e964c.jpg"
   },
   {
     "revision": "75fcee9f494b3571b714c87475fd04ff",
@@ -332,10 +340,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/media/rainbow_green.b47e18aa.jpg"
   },
   {
-    "revision": "c05f1250dc040ce4c6868b1eba52946f",
-    "url": "/friendswithyou/static/media/rainbow_rink_2.c05f1250.jpg"
-  },
-  {
     "revision": "d8af5974f59bc835b4ff29f62a192efe",
     "url": "/friendswithyou/static/media/rainbow_roller_rink.d8af5974.jpg"
   },
@@ -426,9 +430,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cd36a4c0ac972dca2d6595b5535eead7",
     "url": "/friendswithyou/static/media/yellowcover.cd36a4c0.jpg"
-  },
-  {
-    "revision": "2c552b749d4ae7091a580c149ecdbc9f",
-    "url": "/friendswithyou/static/media/yellowspongey.2c552b74.jpg"
   }
 ]);
