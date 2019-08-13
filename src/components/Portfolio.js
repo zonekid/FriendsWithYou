@@ -119,7 +119,7 @@ padding-bottom: 200px;
 
 
 const Portheader = styled.h1 `
-font-family: Hiragino Sans GB;
+font-family: Lato-Bold;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;
@@ -177,7 +177,7 @@ const PortBox = styled.div `
 `
 
 const List = styled.div `
-font-family: Hiragino Sans GB3;
+font-family: Lato-Regular;
 font-size: 14px;
 color: #000000;
 letter-spacing: 0.96px;

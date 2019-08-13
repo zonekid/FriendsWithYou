@@ -12,7 +12,7 @@ import Nav from 'react-bootstrap/Nav';
 import './font.css';
 
 const BlogHeader = styled.h1 `
-font-family: Hiragino Sans GB;
+font-family: Lato-Bold;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;

@@ -9,7 +9,7 @@ import Contact2 from '../components/Contact2';
 import './font.css';
 
 const Titletact = styled.h1 `
-font-family: Hiragino Sans GB;
+font-family: Lato-Bold;
 font-size: 59.35px;
 letter-spacing: 1.82px;
 text-align: left;

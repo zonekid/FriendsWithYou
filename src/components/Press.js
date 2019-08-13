@@ -16,7 +16,7 @@ padding-top: 100px;
 `
 
 const Pheader = styled.h1 `
-font-family: Hiragino Sans GB;
+font-family: Lato-Bold;
 font-size: 59.35px;
 color: #ffffff;
 letter-spacing: 1.82px;
@@ -57,7 +57,7 @@ padding-top:300px;
 `
 
 const Exp = styled.div `
-font-family: Hiragino Sans GB;
+font-family: Lato-Bold;
 color: #ffffff;
 
 @media (max-width: 575px) {

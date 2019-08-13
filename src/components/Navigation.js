@@ -46,7 +46,7 @@ border-radius: 8px;
 
 
 .navbar .cool {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -61,7 +61,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool1 {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -74,7 +74,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool2 {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -87,7 +87,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool3 {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -100,7 +100,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool4 {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;
@@ -113,7 +113,7 @@ text-transform: uppercase;
 };
 
 .navbar .cool5 {
-  font-family: Hiragino Sans GB;
+  font-family: Lato-Bold;
 font-size: 16px;
 color:#000000;
 letter-spacing: 0;

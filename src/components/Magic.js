@@ -10,7 +10,7 @@ import './font.css';
 
 
 const Title = styled.p`
-font-family: Hiragino Sans GB3;
+font-family: Lato-Regular;
 font-size: 48px;
 color: #000000;
 letter-spacing: 0.01px;
@@ -19,7 +19,7 @@ padding-top:50px;
 `
 
 const Sub = styled.p`
-font-family: Hiragino Sans GB3;
+font-family: Lato-Regular;
 font-size: 20px;
 color: #000000;
 text-align: center;
