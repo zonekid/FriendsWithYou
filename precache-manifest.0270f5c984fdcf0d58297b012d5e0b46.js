@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e794ad9441c13099a5c09063b09b3b4e",
+    "revision": "77973883e768690f96a7bb53ec36d52b",
     "url": "/friendswithyou/index.html"
   },
   {
@@ -8,28 +8,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/css/2.d4c5f937.chunk.css"
   },
   {
-    "revision": "e0f1b306c76a0e5e50c2",
-    "url": "/friendswithyou/static/css/main.f9b7481f.chunk.css"
+    "revision": "60730ffb41e12a069f4d",
+    "url": "/friendswithyou/static/css/main.6e9f7f7e.chunk.css"
   },
   {
     "revision": "b5a712cffbca1dd7c603",
     "url": "/friendswithyou/static/js/2.65cf68b0.chunk.js"
   },
   {
-    "revision": "e0f1b306c76a0e5e50c2",
-    "url": "/friendswithyou/static/js/main.f8582ae7.chunk.js"
+    "revision": "60730ffb41e12a069f4d",
+    "url": "/friendswithyou/static/js/main.d3cfef5c.chunk.js"
   },
   {
     "revision": "2ee975e4bc196036c55a",
     "url": "/friendswithyou/static/js/runtime~main.8362965b.js"
   },
   {
-    "revision": "bdf471713ee7dec3e19576abe39ee749",
-    "url": "/friendswithyou/static/media/Avenir.bdf47171.ttc"
+    "revision": "4d8fdeb265ff6d34fb3bd8e4292665c0",
+    "url": "/friendswithyou/static/media/AvenirNextRegular08.4d8fdeb2.ttf"
   },
   {
     "revision": "fb2985b0f3af434425b806e5a7c8c77c",
     "url": "/friendswithyou/static/media/DefinitelyMaybe.fb2985b0.ttf"
+  },
+  {
+    "revision": "44dfe8cc676882243911a3197a50169e",
+    "url": "/friendswithyou/static/media/LatoBold.44dfe8cc.ttf"
+  },
+  {
+    "revision": "2d36b1a925432bae7f3c53a340868c6e",
+    "url": "/friendswithyou/static/media/LatoRegular.2d36b1a9.ttf"
   },
   {
     "revision": "099c813d7b2a06896cd5e5a2124b6b8a",
