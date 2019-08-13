@@ -73,9 +73,9 @@ padding-bottom:50px;
 padding-bottom: 60px;
 
  }
-@media (min-width: 1800px) {
+@media (min-width: 2000px) {
   padding-top:100px;
-padding-bottom: 100px;
+padding-bottom: 85px;
 
  }
 `

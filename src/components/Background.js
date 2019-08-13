@@ -10,7 +10,7 @@ import './slider-animations.css';
 import './styles.css';
 
 import cloud from '../assets/sitw_hov_p.jpg';
-import sponge from '../assets/yellowspongey.jpg';
+import sponge from '../assets/Optimized-yellowspongey.jpg';
 import nature from '../assets/naturesgiftexhibit.jpg';
 import Nav from 'react-bootstrap/Nav';
 

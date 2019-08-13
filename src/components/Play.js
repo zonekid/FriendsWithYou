@@ -8,8 +8,8 @@ import kermit from '../assets/kermit2.jpg';
 import play from '../assets/pinnochio.jpg';
 import play2 from '../assets/playworks_snoopy.jpg';
 import play3 from '../assets/playworks_hello_kitty.jpg';
-import play4 from '../assets/happycollage.jpg';
-import play5 from '../assets/evilcollage.jpg';
+import play4 from '../assets/Optimized-happycollage.jpg';
+import play5 from '../assets/Optimized-evilcollage.jpg';
 import play6 from '../assets/playworks_gumbyhorse2.jpg';
 import './font.css';
 

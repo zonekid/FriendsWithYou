@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Container from 'react-bootstrap/Container';
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
-import rainbowrink from '../assets/rainbow_rink_2.jpg';
+import rainbowrink from '../assets/Optimized-rainbow_rink_2.jpg';
 import santa from '../assets/santa_people_gathering.jpg';
 import sanFran from '../assets/intotheclouds.jpg';
 import pinkmoon from '../assets/korea_night_rainbow.jpg';
