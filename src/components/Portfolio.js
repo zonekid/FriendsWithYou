@@ -13,6 +13,7 @@ import kermit from '../assets/kermit2.jpg';
 import cloud from '../assets/littlecloudsculpture_home2.jpg';
 import bubbly from '../assets/bubbly_fiberglass2.jpg';
 import natureg from '../assets/naturesgiftexhibit.jpg';
+import natureg2 from '../assets/baloon_background.jpg';
 import magicseed from '../assets/magicseeddigital.jpg';
 import nerd from '../assets/nerd_painting.jpg';
 import boom from '../assets/rainbow_boom.jpg';
@@ -23,6 +24,13 @@ import moncler from '../assets/moncler_popup.jpg';
 import heart from '../assets/heartcover.jpg';
 import Nav from 'react-bootstrap/Nav';
 import './font.css';
+
+
+const Background = styled.div `
+background-image: url(${natureg2});
+background-repeat: no-repeat;
+background-size: cover;
+`
 
 const Ovltext = styled.div `
 text-transform:uppercase;
@@ -302,7 +310,7 @@ sculptureChange = () => {
     
     render() { 
         return ( 
-<div style={{background:'#F5F7F9'}}>
+<Background>
     <Row>
         <Col lg={5} xl={5}>
             <PortBox>
@@ -412,7 +420,7 @@ PORTFOLIO
        </Col>  
     </Row>
 
-</div>
+</Background>
 
          );
     }

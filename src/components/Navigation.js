@@ -140,7 +140,7 @@ const Navigation = () => {
     return ( 
       <NavStyles>
         <Navbar fixed="top" expand="xl" >
-  <Navbar.Brand href="#home">FriendsWithYou</Navbar.Brand>
+  <Navbar.Brand href="/">FriendsWithYou</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" className="ml-1" />
   <Navbar.Collapse id="basic-navbar-nav" className="justify-content-between align-items-center w-100">
     <Nav className="mx-auto text-center">

@@ -8,7 +8,7 @@ import something from '../assets/sitw_flyer.jpg';
 import something2 from '../assets/sitw_purp_green_float.jpg';
 import something3 from '../assets/sitw_two_in_a_pod.jpg';
 import something4 from '../assets/sitw_people.jpg';
-import something5 from '../assets/sitw_hov_p.jpg';
+import something5 from '../assets/SITW19_AryaCollective.jpg';
 import something6 from '../assets/sitw_rainy_day.jpg';
 import something7 from '../assets/sitw_multiple.jpg';
 import './font.css';
