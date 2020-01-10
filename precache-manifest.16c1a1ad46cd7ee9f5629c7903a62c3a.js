@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "419750667e10b5f9fa9ea185d872418b",
+    "revision": "ee77a56218b2d19499d48a7f729e9a93",
     "url": "/friendswithyou/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/css/2.d4c5f937.chunk.css"
   },
   {
-    "revision": "028f3a0fffc9fbc4419b",
+    "revision": "9acabcecf7e37fc36609",
     "url": "/friendswithyou/static/css/main.23bdedee.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/js/2.860de76d.chunk.js"
   },
   {
-    "revision": "028f3a0fffc9fbc4419b",
-    "url": "/friendswithyou/static/js/main.a8fc0a1c.chunk.js"
+    "revision": "9acabcecf7e37fc36609",
+    "url": "/friendswithyou/static/js/main.88befeab.chunk.js"
   },
   {
     "revision": "2ee975e4bc196036c55a",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/friendswithyou/static/media/Optimized-happycollage.f26e59e3.jpg"
   },
   {
-    "revision": "e552ec900c139a95e87b5d8292dd8a44",
-    "url": "/friendswithyou/static/media/Optimized-rainbow_rink_2.e552ec90.jpg"
+    "revision": "5867aabd97cedcff30ea7d022f2539a2",
+    "url": "/friendswithyou/static/media/Optimized-rainbow_rink_2.5867aabd.jpg"
   },
   {
     "revision": "d1bf5f0043c8cdc7b9bfd5931feb39d6",
